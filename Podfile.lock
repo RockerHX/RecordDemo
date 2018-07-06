@@ -1,0 +1,23 @@
+PODS:
+  - AudioKit (4.3):
+    - AudioKit/UI (= 4.3)
+  - AudioKit/UI (4.3)
+  - GoogleWebRTC (1.1.23765)
+
+DEPENDENCIES:
+  - AudioKit (~> 4.3)
+  - AudioKit/UI (~> 4.3)
+  - GoogleWebRTC (~> 1.1.23765)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AudioKit
+    - GoogleWebRTC
+
+SPEC CHECKSUMS:
+  AudioKit: 95bd2427c1afa7954d71b0c6195a09b87b7448bc
+  GoogleWebRTC: 4991861702c393e1bfbe32c8a8ab4564630f2c93
+
+PODFILE CHECKSUM: 8f2fa2aeec6710986fd060be77521c4748c74e97
+
+COCOAPODS: 1.5.0
